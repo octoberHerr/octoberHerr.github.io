@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/octoberHerr/octoberHerr.github.io"
 languageCode = "zh-CN"
 title = "我的技术文档"
 theme = "book"
@@ -6,4 +6,4 @@ theme = "book"
 # 启用侧边栏目录
 [params]
   BookTheme = "auto" # 主题模式：auto, light, dark
-  BookRepo = "https://github.com/你的用户名/你的仓库名" # 可选：显示 Git 仓库链接
+  BookRepo = "https://github.com/octoberHerr/octoberHerr.github.io" # 可选：显示 Git 仓库链接
